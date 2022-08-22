@@ -4,7 +4,7 @@
 本文数据与文字大量参考[Stardew Valley中文维基](https://xinglugu.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)。在此表示感谢。
     
 ## 游戏介绍
-
+星露谷物语（Stardew Valley)是由ConcernedApe开发的一款开放式乡村模拟经营类独立游戏。游戏中玩家扮演继承了爷爷农场的“Stardew valley”主角开阔和经营整座小牧场。游戏包含耕种、钓鱼、觅食、砍树、植树、采矿、战斗、参加节日庆典、结婚等玩法和系统。
 
 ## 技能系统中的5类技能
 
