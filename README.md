@@ -21,7 +21,7 @@
 | 9 | 10000 | 
 | 10 | 15000 | 
 
-![image](https://github.com/AuTuMnnn458/Data-exploration-for-Stardew-Valley/blob/main/pictures/1.png =400x300)
+![image](https://github.com/AuTuMnnn458/Data-exploration-for-Stardew-Valley/blob/main/pictures/1.png 400x300)
 
 ## 矿井系统与数值拆解
 
