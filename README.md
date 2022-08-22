@@ -15,13 +15,12 @@
 | 3 | 770 | 
 | 4 | 1300 | 
 | 5 | 2150 | 
-| 6 | 3300 | 
+| 6 | 3300 |                   <img src="https://github.com/AuTuMnnn458/Data-exploration-for-Stardew-Valley/blob/main/pictures/1.png" width = "500px">
 | 7 | 4800 | 
 | 8 | 6900 | 
 | 9 | 10000 | 
 | 10 | 15000 | 
 
-<img src="https://github.com/AuTuMnnn458/Data-exploration-for-Stardew-Valley/blob/main/pictures/1.png" width = "500px">
 ## 矿井系统与数值拆解
 
 
